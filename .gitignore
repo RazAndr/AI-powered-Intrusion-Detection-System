@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large, downloaded separately)
+data/*.txt
+data/*.csv
+
+# Trained models (large binary files)
+models/*.joblib
+models/*.pkl
+
+# Environment / secrets
+.env
+config/config.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
