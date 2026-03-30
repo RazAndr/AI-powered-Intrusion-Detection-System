@@ -22,13 +22,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (large, downloaded separately)
-data/*.txt
-data/*.csv
-
-# Trained models (large binary files)
-models/*.joblib
-models/*.pkl
 
 # Environment / secrets
 .env
