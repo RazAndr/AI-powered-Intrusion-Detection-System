@@ -36,3 +36,4 @@ Thumbs.db
 
 cicids2017/data/*.pcap_ISCX.csv
 cicids2017/data/cicids2017_clean.csv
+cicids2017/data/*.csv
