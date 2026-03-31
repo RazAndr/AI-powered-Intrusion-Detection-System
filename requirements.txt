@@ -14,10 +14,8 @@ jupyter>=1.0.0
 ipykernel>=6.25.0
 
 # Database (Phase 6)
-# influxdb-client>=1.36.0
+ influxdb-client>=1.36.0
 
-# Alerting (Phase 8)
-# requests>=2.31.0
 
 # Config
 pyyaml>=6.0.0
