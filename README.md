@@ -195,3 +195,6 @@ Engineered ratio features (`fwd_byte_ratio`, `fwd_bwd_size_ratio`) showed near-z
 - Sharafaldin, I., Lashkari, A.H., & Ghorbani, A.A. (2018). "Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization." 4th International Conference on Information Systems Security and Privacy (ICISSP).
 - Cantone, M., Marrocco, C., & Bria, A. (2024). "Machine Learning in Network Intrusion Detection: A Cross-Dataset Generalization Study." IEEE Access, 12, 144489-144508.
 - Tavallaee, M., Bagheri, E., Lu, W., & Ghorbani, A. (2009). "A Detailed Analysis of the KDD CUP 99 Data Set." Second IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA).
+
+## Demo 
+https://github.com/user-attachments/assets/3f560bb9-151c-4e1f-ba41-660f44c1efd2
